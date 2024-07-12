@@ -188,3 +188,5 @@ This project aims to develop a robust and scalable Tetris game using data struct
 - [Free Strokes Blog](https://freestrokes.tistory.com/84)
 
 ---
+
+- [Seperately Created from origin repo -> C_Algo](https://github.com/HeeJohn/C_Algo/tree/main/project/tetris)
